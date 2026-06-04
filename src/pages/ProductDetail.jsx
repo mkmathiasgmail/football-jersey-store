@@ -111,7 +111,7 @@ function ProductDetail() {
 
           <div className="mb-6 pb-6 border-b-2">
             <span className="text-4xl font-bold text-secondary">${product.price}</span>
-            <p className="text-gray-600 text-sm mt-2">Livraison gratuite pour les commandes > $50</p>
+            <p className="text-gray-600 text-sm mt-2">Livraison gratuite pour les commandes &gt; $50</p>
           </div>
 
           <div className="mb-6">
